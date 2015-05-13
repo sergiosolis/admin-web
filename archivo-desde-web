@@ -1,4 +1,0 @@
-<?php
-echo "archivo desde la Web";
-echo "ivan";
-?>
